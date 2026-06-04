@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Jaqb77&color=blue&style=flat-square" alt="Visitor's Count" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN&show_icons=true&theme=radial" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radial" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=jaqb77&theme=dark" alt="GitHub Streak" />
