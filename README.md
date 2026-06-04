@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FJaqb77-profile%2Fvisits&color=blue" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=Jaqb77&color=blue&style=flat-square" alt="Visitor's Count" />
 </div>
