@@ -18,3 +18,5 @@ Here are some ideas to get you started:
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Jaqb77&color=blue&style=flat-square" alt="Visitor's Count" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_LOGIN&show_icons=true&theme=radial" alt="GitHub Stats" />
