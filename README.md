@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/jaqb77/count.svg" alt="Visitor's Count" />
+  <img src="https://api.mojoauth.com/users/status/badge?username=Jaqb77" alt="Visitor's Count" />
 </div>
