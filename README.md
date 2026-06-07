@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Jaqb77&color=blue&style=flat-square" alt="Visitor's Count" />
+  <img src="https://streak-stats.demolab.com?user=jaqb77&theme=dark" alt="GitHub Streak" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radial" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=jaqb77&theme=dark" alt="GitHub Streak" />
+
