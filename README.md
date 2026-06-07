@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Jaqb77&color=blue&style=flat-square" alt="Visitor's Count" />
-  <img src="https://streak-stats.demolab.com?user=jaqb77&theme=dark" alt="GitHub Streak" />
 </div>
 
-
+<div>
+  <img src="https://streak-stats.demolab.com?user=jaqb77&theme=dark" alt="GitHub Streak" />
+</div>
