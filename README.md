@@ -1,5 +1,5 @@
 
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radical&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaqb77)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🛠 
