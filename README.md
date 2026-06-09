@@ -1,15 +1,15 @@
 <div align="center">
-### Hi! I'm Jakub – Automation Maintenance Technican
+Hi! I'm Jakub – Automation Maintenance Technican
 
 ---
 *Future M.Sc. in Automation and Robotics | Aspiring DevOps Engineer*
 </div>
 
-### 🚀 O mnie
-Aktualnie skupiam się na przejściu ze świata automatyki przemysłowej do **DevOps**. Moje podejście do IT buduję na fundamentach inżynierskich, łącząc wiedzę o procesach ciągłych z praktycznym programowaniem.
+### 🚀 About me
+Automation Technician in automotive maintenance transitioning into IT, leveraging a strong background in industrial troubleshooting and system optimization. Currently upskilling in Python, SQL, and DevOps to bridge the gap between physical infrastructure and software engineering. Committed to applying a systematic engineering mindset to data analysis and robust system development.
 
-### 🤖 Aktualny projekt
-* **System wizyjny dla ramienia robotycznego (UR3):** Rozwijam system wykorzystujący modele AI (YOLOv8) do detekcji obiektów w czasie rzeczywistym oraz protokół RTDE do sterowania ruchem robota.
+### 🤖 Master’s Thesis
+Design and implementation of a vision-based safety system utilizing YOLOv8 for dynamic safety zone monitoring, integrated with a robotic arm via RTDE for real-time kinematic control and speed regulation.
 
 ---
 ![Wykres aktywności](https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -28,4 +28,4 @@ Aktualnie skupiam się na przejściu ze świata automatyki przemysłowej do **De
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
-*Powered by passion for automation and clean code.*
+*Powered by passion for automation*
