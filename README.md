@@ -5,12 +5,6 @@ Hi! I'm Jakub – Automation Maintenance Technican
 *Future M.Sc. in Automation and Robotics | Aspiring DevOps Engineer*
 </div>
 
-### 🚀 About me
-Automation Technician in automotive maintenance transitioning into IT, leveraging a strong background in industrial troubleshooting and system optimization. Currently upskilling in Python, SQL, and DevOps to bridge the gap between physical infrastructure and software engineering. Committed to applying a systematic engineering mindset to data analysis and robust system development.
-
-### 🤖 Master’s Thesis
-Design and implementation of a vision-based safety system utilizing YOLOv8 for dynamic safety zone monitoring, integrated with a robotic arm via RTDE for real-time kinematic control and speed regulation.
-
 ---
 ![Wykres aktywności](https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
@@ -26,6 +20,13 @@ Design and implementation of a vision-based safety system utilizing YOLOv8 for d
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+### 🚀 About me
+Automation Technician in automotive maintenance transitioning into IT, leveraging a strong background in industrial troubleshooting and system optimization. Currently upskilling in Python, SQL, and DevOps to bridge the gap between physical infrastructure and software engineering. Committed to applying a systematic engineering mindset to data analysis and robust system development.
+
+### 🤖 Master’s Thesis
+Design and implementation of a vision-based safety system utilizing YOLOv8 for dynamic safety zone monitoring, integrated with a robotic arm via RTDE for real-time kinematic control and speed regulation.
 
 ---
 *Powered by passion for automation*
