@@ -1,7 +1,7 @@
 <div align="center">
 # Hi! I'm Jakub – Automation Maintenance Technican
-*Future M.Sc. in Automation and Robotics | Aspiring DevOps Engineer*
 ---
+*Future M.Sc. in Automation and Robotics | Aspiring DevOps Engineer*
 </div>
 
 ### 🚀 O mnie
