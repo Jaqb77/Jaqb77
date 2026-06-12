@@ -7,11 +7,11 @@ Hi! I'm Jakub – Automation Maintenance Technican
 
 ### Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=dark" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=github_dark" alt="GitHub Profile Details" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=dark&utcOffset=2" alt="GitHub Commits per hour" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=github_dark&utcOffset=2" alt="GitHub Commits per hour" />
 </div>
 
 ---
