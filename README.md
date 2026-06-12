@@ -8,6 +8,7 @@ Hi! I'm Jakub – Automation Maintenance Technican
 ### 🚀 About me
 Automation Technician in automotive maintenance transitioning into IT, leveraging a strong background in industrial troubleshooting and system optimization. Currently upskilling in Python, SQL, and DevOps to bridge the gap between physical infrastructure and software engineering. Committed to applying a systematic engineering mindset to data analysis and robust system development.
 
+
 # Tech Stack 🛠 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -21,6 +22,7 @@ Automation Technician in automotive maintenance transitioning into IT, leveragin
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ### 🤖 Master’s Thesis
 Design and implementation of a vision-based safety system utilizing YOLOv8 for dynamic safety zone monitoring, integrated with a robotic arm via RTDE for real-time kinematic control and speed regulation.
