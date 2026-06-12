@@ -13,10 +13,9 @@ Hi! I'm Jakub – Automation Maintenance Technican
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=dark" alt="GitHub Profile Details" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=dark&utcOffset=2" alt="GitHub Commits per hour" />
-</div>
+
+img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=dark&utcOffset=2" alt="GitHub Commits per hour" 
+
 
 # 🛠 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
