@@ -8,6 +8,16 @@ Hi! I'm Jakub – Automation Maintenance Technican
 ---
 ![Wykres aktywności](https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+### Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=dark" alt="GitHub Profile Details" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=dark&utcOffset=2" alt="GitHub Commits per hour" />
+</div>
+
 # 🛠 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
