@@ -5,6 +5,16 @@ Hi! I'm Jakub – Automation Maintenance Technican
 *Future M.Sc. in Automation and Robotics | Aspiring DevOps Engineer*
 </div>
 
+### Statystyki aktywności
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=dark" alt="GitHub Profile Details" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=dark&utcOffset=2" alt="GitHub Commits per hour" />
+</div>
+
 ---
 ![Wykres aktywności](https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
