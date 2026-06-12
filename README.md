@@ -5,8 +5,7 @@ Hi! I'm Jakub – Automation Maintenance Technican
 *Future M.Sc. in Automation and Robotics | Aspiring DevOps Engineer*
 </div>
 
-### Statystyki aktywności
-
+### Stats
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=dark" alt="GitHub Profile Details" />
 </div>
@@ -16,24 +15,15 @@ Hi! I'm Jakub – Automation Maintenance Technican
 </div>
 
 ---
-![Wykres aktywności](https://github-readme-stats.vercel.app/api?username=jaqb77&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-### Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaqb77&theme=dark" alt="GitHub Profile Details" />
-</div>
-
-img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaqb77&theme=dark&utcOffset=2" alt="GitHub Commits per hour" 
-
-
-# 🛠 
+# Tech Stack 🛠 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe-Lightroom&logoColor=white)
 
 # Path
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
